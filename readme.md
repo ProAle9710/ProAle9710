@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero en Ciencias Informáticas con 4 años de experiencia en desarrollo de software. Actualmente liderando equipos técnicos en SifizSoft (Ecuador), especializado en desarrollo web y móvil. Apasionado por crear soluciones innovadoras y escalables en el sector financiero.
+Ingeniero en Ciencias Informáticas con 4 años de experiencia en desarrollo de software. Actualmente liderando equipos técnicos en SifizSoft (Ecuador), especializado en desarrollo web y móvil. Apasionado por crear soluciones innovadoras y escalables en el sector financiero. Con 1 año de experiencia trabajando y desarrollando con agentes de IA de forma profesional, logrando resultados super ágiles que reducen el tiempo de desarrollo de proyectos hasta un 75%.
 
 ## 🛠️ Stack Tecnológico
 
@@ -17,6 +17,9 @@ Ingeniero en Ciencias Informáticas con 4 años de experiencia en desarrollo de 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -44,12 +47,21 @@ Plataforma de configuración empresarial
 - Gestión de parámetros en tiempo real
 - Optimización de procesos internos
 
-## 📊 Estadísticas de GitHub
+### 📊 Sistema de Gestión Comercial de Campo
+Solución móvil y web para gestión de ventas y operaciones comerciales en terreno
+- Desarrollado con React Native para aplicaciones móviles
+- Versión web con Next.js
+- Gestión de clientes, pedidos y visitas comerciales
+- Sincronización offline y en tiempo real
+- Reportes y análisis de ventas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proale9710&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proale9710&theme=radical" alt="Racha de GitHub"/>
-</p>
+### ⚖️ Sistema de Administración y Consulta de Leyes
+Plataforma especializada para consulta y administración de normativas legales
+- Sistema de consulta de la Ley Saras de Ecuador
+- Desarrollado con Next.js para interfaz web moderna y optimizada
+- Búsqueda avanzada y filtrado de artículos
+- Gestión de actualizaciones y versiones de leyes
+- Interfaz intuitiva para abogados y profesionales del derecho
 
 ## 📫 Contacto
 
