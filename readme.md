@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Alejandro Avelino Infante</h1>
-  <h3>Líder Técnico & Desarrollador Full Stack</h3>
+  <h3>Líder Técnico & Desarrollador Frontend</h3>
 </div>
 
 <p align="center">
