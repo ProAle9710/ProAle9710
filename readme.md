@@ -99,5 +99,15 @@ Desarrollador y líder técnico en proyectos financieros empresariales para inst
 
 Experiencia en generación de builds Android, firma de aplicaciones, manejo de archivos AAB/APK y despliegue de aplicaciones móviles en Google Play Store.
 
+## Contacto
+
+<p align="center">
+  <a href="mailto:proaleinfan9710@gmail.com"><img src="https://img.shields.io/badge/Gmail-proaleinfan9710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: proaleinfan9710@gmail.com"/></a>
+  &nbsp;
+  <a href="https://wa.me/5358701424"><img src="https://img.shields.io/badge/WhatsApp-%2B53_58701424-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: +53 5870 1424"/></a>
+</p>
+<p align="center">
+  📞 <a href="tel:+5358701424"><strong>Llamada directa:</strong> +53&nbsp;5870&nbsp;1424</a>
+</p>
 
 <p align="center"><i>Gracias por visitar mi perfil.</i></p>
