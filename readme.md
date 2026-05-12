@@ -99,9 +99,5 @@ Desarrollador y líder técnico en proyectos financieros empresariales para inst
 
 Experiencia en generación de builds Android, firma de aplicaciones, manejo de archivos AAB/APK y despliegue de aplicaciones móviles en Google Play Store.
 
-## Contacto
-
-- **GitHub:** ______________________
-- **Correo:** ______________________
 
 <p align="center"><i>Gracias por visitar mi perfil.</i></p>
