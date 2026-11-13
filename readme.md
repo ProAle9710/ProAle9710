@@ -1,15 +1,25 @@
 <div align="center">
-  <h1>Alejandro Avelino Infante de la Torre</h1>
-  <h3>Líder Técnico · Desarrollador Frontend Móvil (Android / iOS / React Native)</h3>
-  <p>Holguín, Cuba · SifizSoft (Ecuador)</p>
-  <p>
-    <a href="https://github.com/ProAle9710"><strong>github.com/ProAle9710</strong></a>
-    ·
-    <a href="mailto:proaleinfan9710@gmail.com">proaleinfan9710@gmail.com</a>
-    ·
-    <a href="tel:+5358701424">+53 58701424</a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Alejandro+Avelino+Infante+de+la+Torre;L%C3%ADder+T%C3%A9cnico+%C2%B7+Frontend+M%C3%B3vil;Android+%C2%B7+iOS+%C2%B7+React+Native+%C2%B7+Kotlin" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Holgu%C3%ADn%2C%20Cuba-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Empresa-SifizSoft%20(Ecuador)-512BD4?style=flat-square&logo=building&logoColor=white" alt="Empresa"/>
+  <img src="https://img.shields.io/badge/Experiencia-5%2B%20a%C3%B1os-22C55E?style=flat-square&logo=clockify&logoColor=white" alt="Experiencia"/>
+  <img src="https://img.shields.io/badge/Dominio-Fintech%20%26%20Banca-F59E0B?style=flat-square&logo=contactlesspayment&logoColor=white" alt="Dominio"/>
+  <img src="https://komarev.com/ghpvc/?username=ProAle9710&style=flat-square&color=61DAFB&label=Profile+views" alt="Profile views"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/ProAle9710"><img src="https://img.shields.io/badge/GitHub-ProAle9710-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:proaleinfan9710@gmail.com"><img src="https://img.shields.io/badge/Email-proaleinfan9710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+5358701424"><img src="https://img.shields.io/badge/Tel-%2B53_58701424-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono"/></a>
+  <a href="https://wa.me/5358701424"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -24,11 +34,28 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,firebase,nextjs,dotnet,flutter,figma,git,docker&perline=12" alt="Skills"/>
+  </a>
+</div>
+
+---
+
 ## Perfil
 
 Ingeniero en Ciencias Informáticas y desarrollador **frontend** especializado en aplicaciones móviles nativas y multiplataforma (**Android e iOS**), con más de **5 años** de experiencia. Actualmente **Líder Técnico** en **SifizSoft (Ecuador)**, enfocado en **Kotlin** y **React Native** para soluciones financieras, bancarias y corporativas de alto rendimiento y excelente experiencia de usuario.
 
 Experiencia demostrada llevando productos de **0 a producción**: **Bancas Virtuales** y **Gestores Comerciales de Campo**. Amplia experiencia en el ecosistema **Firebase** (**Firestore** como base **NoSQL** en tiempo real, Authentication, Cloud Messaging, Storage y **App Check**). Seguridad de producto en fintech: apps probadas contra **Frida** (desempaquetado), App Check en producción y publicación en tiendas finales (**Google Play / App Store**). Más de **2 años** integrando IA en el desarrollo ágil (**Cursor**, **WindSurf**) con Scrum y Kanban.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/0%20%E2%86%92%20PROD-Bancas%20Virtuales-22C55E?style=for-the-badge" alt="0 a PROD Bancas"/>
+  <img src="https://img.shields.io/badge/0%20%E2%86%92%20PROD-Gestores%20de%20Campo-0EA5E9?style=for-the-badge" alt="0 a PROD Gestores"/>
+  <img src="https://img.shields.io/badge/Seguridad-App%20Check%20%2B%20Anti--Frida-EF4444?style=for-the-badge" alt="Seguridad"/>
+  <img src="https://img.shields.io/badge/Stores-Play%20%2B%20App%20Store-111827?style=for-the-badge" alt="Stores"/>
+</p>
+
+---
 
 ## Experiencia
 
@@ -41,6 +68,8 @@ Experiencia demostrada llevando productos de **0 a producción**: **Bancas Virtu
 - **Firebase** en producción: Firestore (NoSQL), Auth, FCM, Storage y **App Check**; sync offline/online y reglas de seguridad.
 - Seguridad fintech: endurecimiento frente a Frida/desempaquetado, App Check y despliegue en **Play Store / App Store**.
 - Arquitecturas frontend escalables, componentes reutilizables y mentoría técnica.
+
+---
 
 ## Proyectos destacados
 
@@ -72,7 +101,13 @@ Panel para configurar productos financieros, tasas, límites y variables operati
 
 `Blazor` · `APIs` · `.NET`
 
+---
+
 ## Habilidades técnicas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,firebase,nextjs,dotnet,flutter,nodejs,sqlite,docker,git,figma,vscode,github&perline=8" alt="Tech stack"/>
+</p>
 
 - **Lenguajes:** Kotlin · JavaScript · TypeScript · Dart · SQL · C#
 - **Móvil, web y frameworks:** React Native · Next.js · Android Jetpack (Compose, ViewModel, Room) · Expo · Flutter · Blazor · OTA updates
@@ -82,6 +117,29 @@ Panel para configurar productos financieros, tasas, límites y variables operati
 - **UI / UX:** Material Design 3 · Apple HIG · Ant Design Mobile · Styled Components · Tailwind RN
 - **Métodos:** Scrum · Kanban · Sprints asistidos por IA
 
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ProAle9710&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAle9710&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProAle9710&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ProAle9710&theme=onedark&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
+</div>
+
+---
+
 ## Formación
 
 **2014 — 2019** · Ingeniero en Ciencias Informáticas · Universidad de las Ciencias Informáticas (La Habana, Cuba)
@@ -89,6 +147,8 @@ Panel para configurar productos financieros, tasas, límites y variables operati
 ## Idiomas
 
 Español · Nativo &nbsp;&nbsp; Inglés · Intermedio técnico
+
+---
 
 ## Contacto
 
@@ -100,4 +160,12 @@ Español · Nativo &nbsp;&nbsp; Inglés · Intermedio técnico
   <a href="https://wa.me/5358701424"><img src="https://img.shields.io/badge/WhatsApp-%2B53_58701424-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<p align="center"><i>Frontend móvil · 0→PROD · Firebase/Firestore · Fintech</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20m%C3%B3vil-0%E2%86%92PROD-61DAFB?style=flat-square" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Firebase%2FFirestore-NoSQL-FFCA28?style=flat-square" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Fintech-Seguro-22C55E?style=flat-square" alt="Fintech"/>
+</p>
+
+<div align="center">
+  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</div>
