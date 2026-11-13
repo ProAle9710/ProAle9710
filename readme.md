@@ -1,113 +1,103 @@
 <div align="center">
-  <h1>Portafolio Profesional — Ingeniero en Ciencias Informáticas</h1>
-  <h2>Alejandro Avelino Infante de la Torre</h2>
-  <h3>Fullstack &amp; Mobile Developer</h3>
-  <p>Especializado en sistemas financieros, banca digital y aplicaciones móviles nativas.</p>
-  <p><strong>Tecnologías principales:</strong> Blazor, .NET, C#, React Native, Kotlin, Next.js, Flutter, Firebase, Firestore, Arquitectura Empresarial y Sistemas Offline-First.</p>
+  <h1>Alejandro Avelino Infante de la Torre</h1>
+  <h3>Líder Técnico · Desarrollador Frontend Móvil (Android / iOS / React Native)</h3>
+  <p>Holguín, Cuba · SifizSoft (Ecuador)</p>
+  <p>
+    <a href="https://github.com/ProAle9710"><strong>github.com/ProAle9710</strong></a>
+    ·
+    <a href="mailto:proaleinfan9710@gmail.com">proaleinfan9710@gmail.com</a>
+    ·
+    <a href="tel:+5358701424">+53 58701424</a>
+  </p>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Firestore"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/App_Check-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="App Check"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
 
-## Sobre mí
+## Perfil
 
-Ingeniero en Ciencias Informáticas con experiencia en el desarrollo de sistemas financieros empresariales para cooperativas y entidades bancarias en Ecuador y Perú.
+Ingeniero en Ciencias Informáticas y desarrollador **frontend** especializado en aplicaciones móviles nativas y multiplataforma (**Android e iOS**), con más de **5 años** de experiencia. Actualmente **Líder Técnico** en **SifizSoft (Ecuador)**, enfocado en **Kotlin** y **React Native** para soluciones financieras, bancarias y corporativas de alto rendimiento y excelente experiencia de usuario.
 
-Especializado en aplicaciones móviles nativas y multiplataforma, arquitecturas offline-first, sistemas bancarios, evaluación de riesgos crediticios y plataformas de gestión empresarial.
+Experiencia demostrada llevando productos de **0 a producción**: **Bancas Virtuales** y **Gestores Comerciales de Campo**. Amplia experiencia en el ecosistema **Firebase** (**Firestore** como base **NoSQL** en tiempo real, Authentication, Cloud Messaging, Storage y **App Check**). Seguridad de producto en fintech: apps probadas contra **Frida** (desempaquetado), App Check en producción y publicación en tiendas finales (**Google Play / App Store**). Más de **2 años** integrando IA en el desarrollo ágil (**Cursor**, **WindSurf**) con Scrum y Kanban.
 
-Experiencia liderando equipos técnicos y desarrollando soluciones de alta complejidad utilizando .NET, Blazor, React Native, Kotlin, Next.js y Flutter.
+## Experiencia
 
-## Proyectos Destacados
+### feb. 2020 — Presente · Líder Técnico y Desarrollador Frontend · SifizSoft
+**Ecuador** · Desarrollo móvil financiero y corporativo
 
-### Core Financiero Empresarial
+- Diseño frontend, desarrollo y liderazgo técnico de aplicaciones móviles financieras para cooperativas ecuatorianas.
+- **Bancas Virtuales** de 0 a producción en **Android e iOS**: cuentas, tarjetas, créditos, movimientos, transferencias tipo Zelle; onboarding digital (biometría, OCR e identidad) como una de sus funciones; **actualizaciones OTA**.
+- **Gestores Comerciales de Campo** de 0 a producción en **Android e iOS**: offline, sincronización, geolocalización, seguimiento en tiempo real y **OTA**.
+- **Firebase** en producción: Firestore (NoSQL), Auth, FCM, Storage y **App Check**; sync offline/online y reglas de seguridad.
+- Seguridad fintech: endurecimiento frente a Frida/desempaquetado, App Check y despliegue en **Play Store / App Store**.
+- Arquitecturas frontend escalables, componentes reutilizables y mentoría técnica.
 
-Sistema web financiero desarrollado para instituciones bancarias y cooperativas de ahorro. Incluye módulos de parametrización financiera, gestión de clientes, productos financieros, créditos, transferencias, configuraciones operativas, seguridad y procesos administrativos internos.
+## Proyectos destacados
 
-**Tecnologías:** Blazor, .NET, C#, SQL Server, APIs REST.
+### Sistema de Bancas Virtuales (Kotlin / React Native)
+Frontend móvil · **Android & iOS** · 0 → PROD · Fintech
 
-### Sistema de Parametrización Financiera
+Banca virtual completa: cuentas, tarjetas, créditos, movimientos, transferencias tipo Zelle y pagos. Onboarding digital (OCR, biometría e identidad), **OTA**, UI alineada a **Material Design** y **Apple HIG**. Datos con **Firebase/Firestore (NoSQL)**, Auth, FCM y **App Check**; seguridad vs Frida y publicación en tiendas.
 
-Plataforma de configuración dinámica para sistemas bancarios y financieros, permitiendo administrar reglas de negocio, parámetros operativos y flujos internos sin necesidad de modificaciones directas en código.
+`Kotlin` · `React Native` · `Firestore` · `Firebase` · `App Check` · `Android` · `iOS` · `OTA` · `HIG`
 
-**Tecnologías:** Blazor, .NET, SQL Server.
+### Sistema de Gestores Comerciales de Campo (React Native)
+Frontend móvil · **Android & iOS** · 0 → PROD · Campo / Offline
 
-### CooPay - Plataforma de pagos móviles
+App multiplataforma para agentes de campo: offline, registro de clientes, rutas, sync con **Firestore/Firebase**, geolocalización, FCM, **OTA** y **App Check**. Patrones HIG/Material; publicada en tiendas finales.
 
-Aplicación financiera tipo Zelle orientada a transferencias y operaciones financieras móviles.
+`React Native` · `Firestore` · `Firebase` · `App Check` · `Android` · `iOS` · `OTA` · `HIG`
 
-**Tecnologías:** Flutter, APIs REST.
+### Sistema Bancario Financiero Web (Blazor)
+Desarrollo web · .NET 8
 
-### Gestión Comercial de Campo
+Plataforma integral para instituciones financieras en Ecuador: cuentas, créditos, movimientos, transferencias, reportes y seguridad avanzada. Integración REST con las apps móviles.
 
-Aplicación móvil para agentes comerciales con capacidades offline-first y sincronización de datos. Permite realizar operaciones financieras y administrativas incluso sin conectividad.
+`.NET 8` · `Blazor` · `REST`
 
-**Tecnologías:** React Native, almacenamiento local, sincronización de datos, APIs REST.
+### Sistema de Parametrizaciones Web (Blazor)
+Desarrollo web · Administración
 
-### Banca Virtual
+Panel para configurar productos financieros, tasas, límites y variables operativas. Conectado a las apps móviles vía APIs centralizadas.
 
-Aplicación móvil financiera para gestión de cuentas personales, pagos de servicios, transferencias, préstamos y solicitud de tarjetas.
+`Blazor` · `APIs` · `.NET`
 
-**Tecnologías:** React Native, APIs REST.
+## Habilidades técnicas
 
-### CrediSaras - Supervisión y Evaluación de Riesgos
+- **Lenguajes:** Kotlin · JavaScript · TypeScript · Dart · SQL · C#
+- **Móvil, web y frameworks:** React Native · Next.js · Android Jetpack (Compose, ViewModel, Room) · Expo · Flutter · Blazor · OTA updates
+- **Estado y datos / NoSQL:** Firebase · Firestore (NoSQL tiempo real) · Authentication · Cloud Messaging (FCM) · Storage · App Check · Context API · Redux Toolkit · Zustand · SQLite · Realm · MMKV · AsyncStorage
+- **Integraciones y seguridad:** REST · GraphQL · Google Maps SDK · OneSignal · PayPhone · WebSockets · Hardening vs Frida · Play Store / App Store
+- **Herramientas:** Android Studio · Xcode · VS Code · Git · Docker · Cursor · WindSurf
+- **UI / UX:** Material Design 3 · Apple HIG · Ant Design Mobile · Styled Components · Tailwind RN
+- **Métodos:** Scrum · Kanban · Sprints asistidos por IA
 
-Sistema orientado a la evaluación y supervisión de riesgos crediticios basado en normativa SARAS.
+## Formación
 
-**Tecnologías:** React, Next.js.
+**2014 — 2019** · Ingeniero en Ciencias Informáticas · Universidad de las Ciencias Informáticas (La Habana, Cuba)
 
-### Optimización Nativa Android con Kotlin
+## Idiomas
 
-Desarrollo de versiones nativas Android para maximizar rendimiento, estabilidad y experiencia de usuario en aplicaciones financieras móviles.
-
-**Tecnologías:** Kotlin, Android SDK.
-
-## Tecnologías
-
-- **Backend:** C#, .NET, ASP.NET Core, APIs REST
-- **Frontend:** Blazor, React, Next.js
-- **Mobile:** React Native, Kotlin, Flutter
-- **Arquitectura:** Offline-first, sincronización de datos, arquitectura empresarial, sistemas financieros
-
-## Experiencia Profesional
-
-Desarrollador y líder técnico en proyectos financieros empresariales para instituciones de Ecuador y Perú en **SifizSoft S.A.**
-
-## Experiencia con Firebase y Despliegue Mobile
-
-**Firebase / Firestore:** Experiencia avanzada utilizando Firestore como base de datos en tiempo real para aplicaciones móviles desarrolladas con React Native.
-
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage (Bucket)
-- Sincronización en tiempo real
-- Arquitecturas offline-first
-- Gestión de usuarios y seguridad
-- Publicación y despliegue de aplicaciones Android
-
-### Despliegue y Publicación
-
-Experiencia en generación de builds Android, firma de aplicaciones, manejo de archivos AAB/APK y despliegue de aplicaciones móviles en Google Play Store.
+Español · Nativo &nbsp;&nbsp; Inglés · Intermedio técnico
 
 ## Contacto
 
 <p align="center">
-  <a href="mailto:proaleinfan9710@gmail.com"><img src="https://img.shields.io/badge/Gmail-proaleinfan9710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: proaleinfan9710@gmail.com"/></a>
+  <a href="https://github.com/ProAle9710"><img src="https://img.shields.io/badge/GitHub-ProAle9710-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://wa.me/5358701424"><img src="https://img.shields.io/badge/WhatsApp-%2B53_58701424-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: +53 5870 1424"/></a>
-</p>
-<p align="center">
-  📞 <a href="tel:+5358701424"><strong>Llamada directa:</strong> +53&nbsp;5870&nbsp;1424</a>
+  <a href="mailto:proaleinfan9710@gmail.com"><img src="https://img.shields.io/badge/Gmail-proaleinfan9710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://wa.me/5358701424"><img src="https://img.shields.io/badge/WhatsApp-%2B53_58701424-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<p align="center"><i>Gracias por visitar mi perfil.</i></p>
+<p align="center"><i>Frontend móvil · 0→PROD · Firebase/Firestore · Fintech</i></p>
