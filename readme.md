@@ -122,8 +122,8 @@ Panel para configurar productos financieros, tasas, límites y variables operati
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ProAle9710&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAle9710&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ProAle9710&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ProAle9710&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
